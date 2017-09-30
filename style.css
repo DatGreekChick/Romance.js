@@ -1,0 +1,24 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+
+html {
+    font-family: 'Open Sans', sans-serif;
+    background-color: black;
+}
+
+h1 {
+    color: rgb(167, 125, 78);
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin: 0;
+}
+
+script {
+    background-color: rgb(167, 125, 78);
+    padding-left: 100px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border: 2px;
+    border-style: solid;
+    margin: 0;
+}
